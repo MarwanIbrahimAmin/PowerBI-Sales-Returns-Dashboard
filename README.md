@@ -135,9 +135,10 @@ The repository is organized as follows:
 
 
 
-## About Me
-
-Hi, I'm Marwan Ibrahim Amin, a passionate Data Analyst with a focus on transforming raw data into actionable insights. I specialize in developing comprehensive business intelligence solutions using tools like Power BI, SQL, and Excel. My goal is to empower businesses with data-driven decision-making capabilities.
+##  About Me
+Hi, I'm **Marwan Ibrahim Amin**, a Data Analyst with strong expertise in designing and delivering end-to-end business intelligence solutions.  
+I specialize in leveraging tools such as **Power BI, SQL, and Excel** to build interactive dashboards, optimize data models, and uncover actionable business insights.  
+My focus is on turning complex datasets into clear, impactful stories that drive strategic decisions and measurable business outcomes.
 
 Feel free to connect with me on LinkedIn: [Marwan Ibrahim Amin](https://www.linkedin.com/in/marwan-ibrahim-amin/)
 
